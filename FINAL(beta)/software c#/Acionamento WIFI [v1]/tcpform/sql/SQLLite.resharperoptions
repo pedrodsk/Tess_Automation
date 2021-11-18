@@ -1,0 +1,86 @@
+<Configuration>
+  <RecentFilesTracker>
+    <RecentFilesTracker>
+      <TrackedFile location="C:\Documents and Settings\Chayan Ray\Desktop\New Folder\SQLLiteexmo\SQLLite\SQLLite\Form1.cs" offset="7246" line="90" column="0" />
+    </RecentFilesTracker>
+  </RecentFilesTracker>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean />
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="3" />
+      <Item value="Enabled" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:int">
+      <Item value="ToString" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataTable">
+      <Item value="DataSet" priority="1" />
+      <Item value="NewRow" priority="1" />
+      <Item value="AcceptChanges" priority="0" />
+      <Item value="Rows" priority="8" />
+      <Item value="ImportRow" priority="1" />
+      <Item value="Copy" priority="1" />
+      <Item value="LoadDataRow" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataRowCollection">
+      <Item value="Add" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Finisar.SQLite.SQLiteDataAdapter">
+      <Item value="Dispose" priority="0" />
+      <Item value="RowUpdated" priority="0" />
+      <Item value="InsertCommand" priority="3" />
+      <Item value="Fill" priority="3" />
+      <Item value="Update" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Finisar.SQLite">
+      <Item value="SQLiteDataAdapter" priority="1" />
+      <Item value="SQLiteRowUpdatedEventArgs" priority="0" />
+      <Item value="SQLiteConnection" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Button">
+      <Item value="Enabled" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Finisar.SQLite.SQLiteCommand">
+      <Item value="ExecuteReader" priority="0" />
+      <Item value="CommandText" priority="3" />
+      <Item value="ExecuteNonQuery" priority="1" />
+      <Item value="CommandType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataSet">
+      <Item value="Merge" priority="0" />
+      <Item value="Reset" priority="0" />
+      <Item value="BeginInit" priority="0" />
+      <Item value="Tables" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Finisar">
+      <Item value="SQLite" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Finisar.SQLite.SQLiteConnection">
+      <Item value="Close" priority="1" />
+      <Item value="Open" priority="0" />
+      <Item value="CreateCommand" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridCell">
+      <Item value="RowNumber" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SQLiteNET.DataBase">
+      <Item value="DataTable" priority="3" />
+      <Item value="ExecuteNonQuery" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGrid">
+      <Item value="Refresh" priority="0" />
+      <Item value="DataMember" priority="0" />
+      <Item value="ResetBindings" priority="0" />
+      <Item value="CurrentRowIndex" priority="3" />
+      <Item value="CurrentCell" priority="1" />
+      <Item value="DataSource" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

@@ -1,0 +1,144 @@
+C:\Users\OPERACAO\Google Drive\Soft_tcp\tcpform\tcpform\bin\Debug\tcpform.exe.config
+C:\Users\OPERACAO\Google Drive\Soft_tcp\tcpform\tcpform\obj\Debug\tcpform.exe
+C:\Users\OPERACAO\Google Drive\Soft_tcp\tcpform\tcpform\obj\Debug\tcpform.pdb
+C:\Users\OPERACAO\Google Drive\Soft_tcp\tcpform\tcpform\obj\Debug\tcpform.csprojResolveAssemblyReference.cache
+C:\Users\OPERACAO\Google Drive\Soft_tcp\tcpform\tcpform\obj\Debug\tcpform.Properties.Resources.resources
+C:\Users\OPERACAO\Google Drive\Soft_tcp\tcpform\tcpform\obj\Debug\tcpform.csproj.GenerateResource.Cache
+C:\Users\OPERACAO\Google Drive\Soft_tcp\tcpform\tcpform\bin\Debug\tcpform.exe
+C:\Users\OPERACAO\Google Drive\Soft_tcp\tcpform\tcpform\bin\Debug\tcpform.pdb
+C:\Users\prefi\Google Drive\Soft_tcp\tcpform\tcpform\bin\Debug\tcpform.exe.config
+C:\Users\prefi\Google Drive\Soft_tcp\tcpform\tcpform\obj\Debug\tcpform.exe
+C:\Users\prefi\Google Drive\Soft_tcp\tcpform\tcpform\obj\Debug\tcpform.pdb
+C:\Users\prefi\Google Drive\Soft_tcp\tcpform\tcpform\bin\Debug\tcpform.exe
+C:\Users\prefi\Google Drive\Soft_tcp\tcpform\tcpform\bin\Debug\tcpform.pdb
+C:\Users\prefi\Google Drive\Soft_tcp\tcpform\tcpform\obj\Debug\tcpform.csprojResolveAssemblyReference.cache
+C:\Users\prefi\Google Drive\Soft_tcp\tcpform\tcpform\obj\Debug\tcpform.Form1.resources
+C:\Users\prefi\Google Drive\Soft_tcp\tcpform\tcpform\obj\Debug\tcpform.Properties.Resources.resources
+C:\Users\prefi\Google Drive\Soft_tcp\tcpform\tcpform\obj\Debug\tcpform.csproj.GenerateResource.Cache
+C:\Users\OPERACAO\Google Drive\Soft_tcp\tcpform\tcpform\obj\Debug\tcpform.Form1_V1.resources
+C:\Users\Breno_Alves\Documents\Soft_tcp\tcpform\tcpform\bin\Debug\tcpform.exe.config
+C:\Users\Breno_Alves\Documents\Soft_tcp\tcpform\tcpform\obj\Debug\tcpform.exe
+C:\Users\Breno_Alves\Documents\Soft_tcp\tcpform\tcpform\obj\Debug\tcpform.pdb
+C:\Users\Breno_Alves\Documents\Soft_tcp\tcpform\tcpform\bin\Debug\tcpform.exe
+C:\Users\Breno_Alves\Documents\Soft_tcp\tcpform\tcpform\bin\Debug\tcpform.pdb
+C:\Users\Breno_Alves\Documents\Soft_tcp\tcpform\tcpform\obj\Debug\tcpform.csprojResolveAssemblyReference.cache
+C:\Users\Breno_Alves\Documents\Soft_tcp\tcpform\tcpform\obj\Debug\tcpform.Form1_V1.resources
+C:\Users\Breno_Alves\Documents\Soft_tcp\tcpform\tcpform\obj\Debug\tcpform.Properties.Resources.resources
+C:\Users\Breno_Alves\Documents\Soft_tcp\tcpform\tcpform\obj\Debug\tcpform.csproj.GenerateResource.Cache
+C:\Users\OPERACAO\Google Drive\Soft_tcp\tcpForm[v2]\tcpform\tcpform\bin\Debug\tcpform.exe.config
+C:\Users\OPERACAO\Google Drive\Soft_tcp\tcpForm[v2]\tcpform\tcpform\obj\Debug\tcpform.exe
+C:\Users\OPERACAO\Google Drive\Soft_tcp\tcpForm[v2]\tcpform\tcpform\obj\Debug\tcpform.pdb
+C:\Users\OPERACAO\Google Drive\Soft_tcp\tcpForm[v2]\tcpform\tcpform\bin\Debug\tcpform.exe
+C:\Users\OPERACAO\Google Drive\Soft_tcp\tcpForm[v2]\tcpform\tcpform\bin\Debug\tcpform.pdb
+C:\Users\OPERACAO\Google Drive\Soft_tcp\tcpForm[v2]\tcpform\tcpform\obj\Debug\tcpform.csprojResolveAssemblyReference.cache
+C:\Users\OPERACAO\Google Drive\Soft_tcp\tcpForm[v2]\tcpform\tcpform\obj\Debug\tcpform.Form1_V1.resources
+C:\Users\OPERACAO\Google Drive\Soft_tcp\tcpForm[v2]\tcpform\tcpform\obj\Debug\tcpform.Properties.Resources.resources
+C:\Users\OPERACAO\Google Drive\Soft_tcp\tcpForm[v2]\tcpform\tcpform\obj\Debug\tcpform.csproj.GenerateResource.Cache
+C:\Users\OPERACAO\Desktop\tcpForm[v2]\tcpform\tcpform\bin\Debug\tcpform.exe.config
+C:\Users\OPERACAO\Desktop\tcpForm[v2]\tcpform\tcpform\obj\Debug\tcpform.exe
+C:\Users\OPERACAO\Desktop\tcpForm[v2]\tcpform\tcpform\obj\Debug\tcpform.pdb
+C:\Users\OPERACAO\Desktop\tcpForm[v2]\tcpform\tcpform\bin\Debug\tcpform.exe
+C:\Users\OPERACAO\Desktop\tcpForm[v2]\tcpform\tcpform\bin\Debug\tcpform.pdb
+C:\Users\OPERACAO\Desktop\tcpForm[v2]\tcpform\tcpform\obj\Debug\tcpform.csprojResolveAssemblyReference.cache
+C:\Users\OPERACAO\Desktop\tcpForm[v2]\tcpform\tcpform\obj\Debug\tcpform.Form1_V1.resources
+C:\Users\OPERACAO\Desktop\tcpForm[v2]\tcpform\tcpform\obj\Debug\tcpform.Properties.Resources.resources
+C:\Users\OPERACAO\Desktop\tcpForm[v2]\tcpform\tcpform\obj\Debug\tcpform.csproj.GenerateResource.Cache
+C:\Users\OPERACAO\Desktop\tcpForm[v2]\tcpform\tcpform\bin\Debug\AcionamentoWifiDB.mdf
+C:\Users\OPERACAO\Desktop\tcpForm[v2]\tcpform\tcpform\bin\Debug\AcionamentoWifiDB_log.ldf
+C:\Users\OPERACAO\Google Drive\Soft_tcp\tcpForm[v3]\tcpform\tcpform\bin\Debug\tcpform.exe.config
+C:\Users\OPERACAO\Google Drive\Soft_tcp\tcpForm[v3]\tcpform\tcpform\obj\Debug\tcpform.exe
+C:\Users\OPERACAO\Google Drive\Soft_tcp\tcpForm[v3]\tcpform\tcpform\obj\Debug\tcpform.pdb
+C:\Users\OPERACAO\Google Drive\Soft_tcp\tcpForm[v3]\tcpform\tcpform\bin\Debug\AcionamentoWifiDB.mdf
+C:\Users\OPERACAO\Google Drive\Soft_tcp\tcpForm[v3]\tcpform\tcpform\bin\Debug\AcionamentoWifiDB_log.ldf
+C:\Users\OPERACAO\Google Drive\Soft_tcp\tcpForm[v3]\tcpform\tcpform\bin\Debug\tcpform.exe
+C:\Users\OPERACAO\Google Drive\Soft_tcp\tcpForm[v3]\tcpform\tcpform\bin\Debug\tcpform.pdb
+C:\Users\OPERACAO\Google Drive\Soft_tcp\tcpForm[v3]\tcpform\tcpform\obj\Debug\tcpform.csprojResolveAssemblyReference.cache
+C:\Users\OPERACAO\Google Drive\Soft_tcp\tcpForm[v3]\tcpform\tcpform\obj\Debug\tcpform.Form1_V1.resources
+C:\Users\OPERACAO\Google Drive\Soft_tcp\tcpForm[v3]\tcpform\tcpform\obj\Debug\tcpform.Properties.Resources.resources
+C:\Users\OPERACAO\Google Drive\Soft_tcp\tcpForm[v3]\tcpform\tcpform\obj\Debug\tcpform.csproj.GenerateResource.Cache
+C:\Users\OPERACAO\Desktop\tcpForm[v4]\tcpform\tcpform\bin\Debug\tcpform.exe.config
+C:\Users\OPERACAO\Desktop\tcpForm[v4]\tcpform\tcpform\obj\Debug\tcpform.exe
+C:\Users\OPERACAO\Desktop\tcpForm[v4]\tcpform\tcpform\obj\Debug\tcpform.pdb
+C:\Users\OPERACAO\Desktop\tcpForm[v4]\tcpform\tcpform\bin\Debug\AcionamentoWifiDB.mdf
+C:\Users\OPERACAO\Desktop\tcpForm[v4]\tcpform\tcpform\bin\Debug\AcionamentoWifiDB_log.ldf
+C:\Users\OPERACAO\Desktop\tcpForm[v4]\tcpform\tcpform\bin\Debug\tcpform.exe
+C:\Users\OPERACAO\Desktop\tcpForm[v4]\tcpform\tcpform\bin\Debug\tcpform.pdb
+C:\Users\OPERACAO\Desktop\tcpForm[v4]\tcpform\tcpform\obj\Debug\tcpform.csprojResolveAssemblyReference.cache
+C:\Users\OPERACAO\Desktop\tcpForm[v4]\tcpform\tcpform\obj\Debug\tcpform.Form1_V1.resources
+C:\Users\OPERACAO\Desktop\tcpForm[v4]\tcpform\tcpform\obj\Debug\tcpform.Properties.Resources.resources
+C:\Users\OPERACAO\Desktop\tcpForm[v4]\tcpform\tcpform\obj\Debug\tcpform.csproj.GenerateResource.Cache
+C:\Users\OPERACAO\Desktop\tcpForm[v4] - Copia\tcpform\tcpform\bin\Debug\tcpform.exe.config
+C:\Users\OPERACAO\Desktop\tcpForm[v4] - Copia\tcpform\tcpform\obj\Debug\tcpform.exe
+C:\Users\OPERACAO\Desktop\tcpForm[v4] - Copia\tcpform\tcpform\obj\Debug\tcpform.pdb
+C:\Users\Breno_Alves\Desktop\TESTE\tcpform\tcpform\bin\Debug\tcpform.exe.config
+C:\Users\Breno_Alves\Desktop\TESTE\tcpform\tcpform\obj\Debug\tcpform.exe
+C:\Users\Breno_Alves\Desktop\TESTE\tcpform\tcpform\obj\Debug\tcpform.pdb
+C:\Users\Breno_Alves\Desktop\TESTE\tcpform\tcpform\bin\Debug\AcionamentoWifiDB.mdf
+C:\Users\Breno_Alves\Desktop\TESTE\tcpform\tcpform\bin\Debug\AcionamentoWifiDB_log.ldf
+C:\Users\Breno_Alves\Desktop\TESTE\tcpform\tcpform\bin\Debug\tcpform.exe
+C:\Users\Breno_Alves\Desktop\TESTE\tcpform\tcpform\bin\Debug\tcpform.pdb
+C:\Users\Breno_Alves\Desktop\TESTE\tcpform\tcpform\obj\Debug\tcpform.csprojResolveAssemblyReference.cache
+C:\Users\Breno_Alves\Desktop\TESTE\tcpform\tcpform\obj\Debug\tcpform.Form1_V1.resources
+C:\Users\Breno_Alves\Desktop\TESTE\tcpform\tcpform\obj\Debug\tcpform.Properties.Resources.resources
+C:\Users\Breno_Alves\Desktop\TESTE\tcpform\tcpform\obj\Debug\tcpform.csproj.GenerateResource.Cache
+C:\Users\Breno_Alves\Desktop\TESTE\tcpform\tcpform\bin\Debug\Cliente.dll
+C:\Users\Breno_Alves\Desktop\TESTE\tcpform\tcpform\bin\Debug\Servidor.dll
+C:\Users\Breno_Alves\Desktop\TESTE\tcpform\tcpform\bin\Debug\Cliente.pdb
+C:\Users\Breno_Alves\Desktop\TESTE\tcpform\tcpform\bin\Debug\Servidor.pdb
+C:\Users\OPERACAO\Google Drive\Soft_tcp\TESTE\tcpform\tcpform\bin\Debug\tcpform.exe.config
+C:\Users\OPERACAO\Google Drive\Soft_tcp\TESTE\tcpform\tcpform\obj\Debug\tcpform.exe
+C:\Users\OPERACAO\Google Drive\Soft_tcp\TESTE\tcpform\tcpform\obj\Debug\tcpform.pdb
+C:\Users\OPERACAO\Google Drive\Soft_tcp\TESTE\tcpform\tcpform\bin\Debug\AcionamentoWifiDB.mdf
+C:\Users\OPERACAO\Google Drive\Soft_tcp\TESTE\tcpform\tcpform\bin\Debug\AcionamentoWifiDB_log.ldf
+C:\Users\OPERACAO\Google Drive\Soft_tcp\TESTE\tcpform\tcpform\bin\Debug\tcpform.exe
+C:\Users\OPERACAO\Google Drive\Soft_tcp\TESTE\tcpform\tcpform\bin\Debug\tcpform.pdb
+C:\Users\OPERACAO\Google Drive\Soft_tcp\TESTE\tcpform\tcpform\bin\Debug\Cliente.dll
+C:\Users\OPERACAO\Google Drive\Soft_tcp\TESTE\tcpform\tcpform\bin\Debug\Servidor.dll
+C:\Users\OPERACAO\Google Drive\Soft_tcp\TESTE\tcpform\tcpform\bin\Debug\Cliente.pdb
+C:\Users\OPERACAO\Google Drive\Soft_tcp\TESTE\tcpform\tcpform\bin\Debug\Servidor.pdb
+C:\Users\OPERACAO\Google Drive\Soft_tcp\TESTE\tcpform\tcpform\obj\Debug\tcpform.csprojResolveAssemblyReference.cache
+C:\Users\OPERACAO\Google Drive\Soft_tcp\TESTE\tcpform\tcpform\obj\Debug\tcpform.Form1_V1.resources
+C:\Users\OPERACAO\Google Drive\Soft_tcp\TESTE\tcpform\tcpform\obj\Debug\tcpform.Properties.Resources.resources
+C:\Users\OPERACAO\Google Drive\Soft_tcp\TESTE\tcpform\tcpform\obj\Debug\tcpform.csproj.GenerateResource.Cache
+C:\Users\Breno_Alves\Google Drive\Soft_tcp\TESTE\tcpform\tcpform\bin\Debug\tcpform.exe.config
+C:\Users\Breno_Alves\Google Drive\Soft_tcp\TESTE\tcpform\tcpform\obj\Debug\tcpform.exe
+C:\Users\Breno_Alves\Google Drive\Soft_tcp\TESTE\tcpform\tcpform\obj\Debug\tcpform.pdb
+C:\Users\OPERACAO\Desktop\TESTE\tcpform\tcpform\bin\Debug\tcpform.exe.config
+C:\Users\OPERACAO\Desktop\TESTE\tcpform\tcpform\obj\Debug\tcpform.exe
+C:\Users\OPERACAO\Desktop\TESTE\tcpform\tcpform\obj\Debug\tcpform.pdb
+C:\Users\OPERACAO\Desktop\TESTE\tcpform\tcpform\bin\Debug\AcionamentoWifiDB.mdf
+C:\Users\OPERACAO\Desktop\TESTE\tcpform\tcpform\bin\Debug\AcionamentoWifiDB_log.ldf
+C:\Users\OPERACAO\Desktop\TESTE\tcpform\tcpform\bin\Debug\tcpform.exe
+C:\Users\OPERACAO\Desktop\TESTE\tcpform\tcpform\bin\Debug\tcpform.pdb
+C:\Users\OPERACAO\Desktop\TESTE\tcpform\tcpform\bin\Debug\Cliente.dll
+C:\Users\OPERACAO\Desktop\TESTE\tcpform\tcpform\bin\Debug\Servidor.dll
+C:\Users\OPERACAO\Desktop\TESTE\tcpform\tcpform\bin\Debug\Cliente.pdb
+C:\Users\OPERACAO\Desktop\TESTE\tcpform\tcpform\bin\Debug\Servidor.pdb
+C:\Users\OPERACAO\Desktop\TESTE\tcpform\tcpform\obj\Debug\tcpform.csprojResolveAssemblyReference.cache
+C:\Users\OPERACAO\Desktop\TESTE\tcpform\tcpform\obj\Debug\tcpform.Form1_V1.resources
+C:\Users\OPERACAO\Desktop\TESTE\tcpform\tcpform\obj\Debug\tcpform.Properties.Resources.resources
+C:\Users\OPERACAO\Desktop\TESTE\tcpform\tcpform\obj\Debug\tcpform.csproj.GenerateResource.Cache
+C:\Users\OPERACAO\Desktop\Acionamento WIFI [v1]\tcpform\tcpform\bin\Debug\tcpform.exe.config
+C:\Users\OPERACAO\Desktop\Acionamento WIFI [v1]\tcpform\tcpform\obj\Debug\tcpform.exe
+C:\Users\OPERACAO\Desktop\Acionamento WIFI [v1]\tcpform\tcpform\obj\Debug\tcpform.pdb
+C:\Users\OPERACAO\Desktop\Acionamento WIFI [v1]\tcpform\tcpform\bin\Debug\tcpform.exe
+C:\Users\OPERACAO\Desktop\Acionamento WIFI [v1]\tcpform\tcpform\bin\Debug\tcpform.pdb
+C:\Users\OPERACAO\Desktop\Acionamento WIFI [v1]\tcpform\tcpform\bin\Debug\Cliente.dll
+C:\Users\OPERACAO\Desktop\Acionamento WIFI [v1]\tcpform\tcpform\bin\Debug\Servidor.dll
+C:\Users\OPERACAO\Desktop\Acionamento WIFI [v1]\tcpform\tcpform\bin\Debug\Cliente.pdb
+C:\Users\OPERACAO\Desktop\Acionamento WIFI [v1]\tcpform\tcpform\bin\Debug\Servidor.pdb
+C:\Users\OPERACAO\Desktop\Acionamento WIFI [v1]\tcpform\tcpform\obj\Debug\tcpform.csprojResolveAssemblyReference.cache
+C:\Users\OPERACAO\Desktop\Acionamento WIFI [v1]\tcpform\tcpform\obj\Debug\tcpform.Form1_V1.resources
+C:\Users\OPERACAO\Desktop\Acionamento WIFI [v1]\tcpform\tcpform\obj\Debug\tcpform.Properties.Resources.resources
+C:\Users\OPERACAO\Desktop\Acionamento WIFI [v1]\tcpform\tcpform\obj\Debug\tcpform.csproj.GenerateResource.Cache
+C:\Users\OPERACAO\Desktop\Acionamento WIFI [v1]\tcpform\tcpform\bin\Debug\EntityFramework.dll
+C:\Users\OPERACAO\Desktop\Acionamento WIFI [v1]\tcpform\tcpform\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\OPERACAO\Desktop\Acionamento WIFI [v1]\tcpform\tcpform\bin\Debug\System.Data.SQLite.dll
+C:\Users\OPERACAO\Desktop\Acionamento WIFI [v1]\tcpform\tcpform\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\OPERACAO\Desktop\Acionamento WIFI [v1]\tcpform\tcpform\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\OPERACAO\Desktop\Acionamento WIFI [v1]\tcpform\tcpform\bin\Debug\EntityFramework.xml
+C:\Users\OPERACAO\Desktop\Acionamento WIFI [v1]\tcpform\tcpform\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\OPERACAO\Desktop\Acionamento WIFI [v1]\tcpform\tcpform\bin\Debug\System.Data.SQLite.xml
+C:\Users\OPERACAO\Google Drive\FINAL\software c#\Acionamento WIFI [v1]\tcpform\tcpform\bin\Debug\tcpform.exe.config
+C:\Users\OPERACAO\Google Drive\FINAL\software c#\Acionamento WIFI [v1]\tcpform\tcpform\obj\Debug\tcpform.exe
+C:\Users\OPERACAO\Google Drive\FINAL\software c#\Acionamento WIFI [v1]\tcpform\tcpform\obj\Debug\tcpform.pdb

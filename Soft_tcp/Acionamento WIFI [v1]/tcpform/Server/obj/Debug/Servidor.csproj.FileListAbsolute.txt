@@ -1,0 +1,9 @@
+C:\Users\Breno_Alves\Desktop\TESTE\tcpform\Server\bin\Debug\Servidor.dll
+C:\Users\Breno_Alves\Desktop\TESTE\tcpform\Server\bin\Debug\Servidor.pdb
+C:\Users\Breno_Alves\Desktop\TESTE\tcpform\Server\obj\Debug\Servidor.dll
+C:\Users\Breno_Alves\Desktop\TESTE\tcpform\Server\obj\Debug\Servidor.pdb
+C:\Users\OPERACAO\Desktop\TESTE\tcpform\Server\bin\Debug\Servidor.dll
+C:\Users\OPERACAO\Desktop\TESTE\tcpform\Server\bin\Debug\Servidor.pdb
+C:\Users\OPERACAO\Desktop\TESTE\tcpform\Server\obj\Debug\Servidor.csprojResolveAssemblyReference.cache
+C:\Users\OPERACAO\Desktop\TESTE\tcpform\Server\obj\Debug\Servidor.dll
+C:\Users\OPERACAO\Desktop\TESTE\tcpform\Server\obj\Debug\Servidor.pdb

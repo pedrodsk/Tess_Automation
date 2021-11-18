@@ -1,0 +1,9 @@
+c:\users\operacao\documents\visual studio 2015\Projects\tcpform\tcpform\bin\Debug\tcpform.exe.config
+c:\users\operacao\documents\visual studio 2015\Projects\tcpform\tcpform\obj\Debug\tcpform.csprojResolveAssemblyReference.cache
+c:\users\operacao\documents\visual studio 2015\Projects\tcpform\tcpform\obj\Debug\tcpform.Form1.resources
+c:\users\operacao\documents\visual studio 2015\Projects\tcpform\tcpform\obj\Debug\tcpform.Properties.Resources.resources
+c:\users\operacao\documents\visual studio 2015\Projects\tcpform\tcpform\obj\Debug\tcpform.csproj.GenerateResource.Cache
+c:\users\operacao\documents\visual studio 2015\Projects\tcpform\tcpform\bin\Debug\tcpform.exe
+c:\users\operacao\documents\visual studio 2015\Projects\tcpform\tcpform\bin\Debug\tcpform.pdb
+c:\users\operacao\documents\visual studio 2015\Projects\tcpform\tcpform\obj\Debug\tcpform.exe
+c:\users\operacao\documents\visual studio 2015\Projects\tcpform\tcpform\obj\Debug\tcpform.pdb

@@ -1,0 +1,4 @@
+C:\Users\Breno_Alves\Desktop\TESTE\tcpform\Cliente\bin\Debug\Cliente.dll
+C:\Users\Breno_Alves\Desktop\TESTE\tcpform\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Breno_Alves\Desktop\TESTE\tcpform\Cliente\obj\Debug\Cliente.dll
+C:\Users\Breno_Alves\Desktop\TESTE\tcpform\Cliente\obj\Debug\Cliente.pdb

@@ -1,0 +1,20 @@
+c:\users\prefi\documents\visual studio 2015\Projects\testetcp\testetcp\bin\Release\testetcp.exe.config
+c:\users\prefi\documents\visual studio 2015\Projects\testetcp\testetcp\bin\Release\testetcp.exe
+c:\users\prefi\documents\visual studio 2015\Projects\testetcp\testetcp\bin\Release\testetcp.pdb
+c:\users\prefi\documents\visual studio 2015\Projects\testetcp\testetcp\obj\Release\testetcp.exe
+c:\users\prefi\documents\visual studio 2015\Projects\testetcp\testetcp\obj\Release\testetcp.pdb
+C:\Users\prefi\Documents\Visual Studio 2015\Projects\testetcp\testetcp\obj\Release\testetcp.csprojResolveAssemblyReference.cache
+C:\Users\OPERACAO\Google Drive\Tess\Pedro\soft\testetcp\testetcp\bin\Release\testetcp.exe.config
+C:\Users\OPERACAO\Google Drive\Tess\Pedro\soft\testetcp\testetcp\obj\Release\testetcp.exe
+C:\Users\OPERACAO\Google Drive\Tess\Pedro\soft\testetcp\testetcp\obj\Release\testetcp.pdb
+C:\Users\OPERACAO\Google Drive\Tess\Pedro\soft\testetcp\testetcp\bin\Release\testetcp.exe
+C:\Users\OPERACAO\Google Drive\Tess\Pedro\soft\testetcp\testetcp\bin\Release\testetcp.pdb
+C:\Users\OPERACAO\Google Drive\Tess\Pedro\soft\testetcp\testetcp\obj\Release\testetcp.csprojResolveAssemblyReference.cache
+C:\Users\OPERACAO\Google Drive\Soft_tcp\testetcp\testetcp\bin\Release\testetcp.exe.config
+C:\Users\OPERACAO\Google Drive\Soft_tcp\testetcp\testetcp\obj\Release\testetcp.exe
+C:\Users\OPERACAO\Google Drive\Soft_tcp\testetcp\testetcp\obj\Release\testetcp.pdb
+C:\Users\OPERACAO\Google Drive\Soft_tcp\testetcp\testetcp\bin\Release\testetcp.exe
+C:\Users\OPERACAO\Google Drive\Soft_tcp\testetcp\testetcp\bin\Release\testetcp.pdb
+C:\Users\OPERACAO\Google Drive\Soft_tcp\testetcp\testetcp\obj\Release\testetcp.csprojResolveAssemblyReference.cache
+C:\Users\OPERACAO\Google Drive\Soft_tcp\testetcp\testetcp\obj\Release\testetcp.Form1.resources
+C:\Users\OPERACAO\Google Drive\Soft_tcp\testetcp\testetcp\obj\Release\testetcp.csproj.GenerateResource.Cache

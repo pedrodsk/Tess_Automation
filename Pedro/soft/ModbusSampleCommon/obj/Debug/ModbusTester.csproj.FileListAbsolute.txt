@@ -1,0 +1,16 @@
+D:\MyData\Visual Studio .NET\ModbusTCP\dev_Main\ModbusSampleCommon\obj\Debug\ModbusTester.exe
+D:\MyData\Visual Studio .NET\ModbusTCP\dev_Main\ModbusSampleCommon\obj\Debug\ModbusTester.pdb
+D:\MyData\Visual Studio .NET\ModbusTCP\dev_Main\ModbusSampleCommon\obj\Debug\ModbusTester.csprojResolveAssemblyReference.cache
+D:\MyData\Visual Studio .NET\ModbusTCP\dev_Main\ModbusSampleCommon\obj\Debug\Modbus.frmStart.resources
+D:\MyData\Visual Studio .NET\ModbusTCP\dev_Main\ModbusSampleCommon\obj\Debug\ModbusTester.csproj.GenerateResource.Cache
+D:\MyData\Visual Studio .NET\ModbusTCP\dev_Main\ModbusSampleCommon\bin\Debug\ModbusTester.exe
+D:\MyData\Visual Studio .NET\ModbusTCP\dev_Main\ModbusSampleCommon\bin\Debug\ModbusTester.pdb
+D:\MyData\Visual Studio .NET\ModbusTCP\dev_Main\ModbusSampleCommon\bin\Debug\ModbusTCP.pdb
+D:\MyData\Visual Studio .NET\ModbusTCP\dev_Main\ModbusSampleCommon\bin\Debug\ModbusTCP.xml
+C:\Temp\ModbusSampleCommon\obj\Debug\ModbusTester.exe
+C:\Temp\ModbusSampleCommon\obj\Debug\ModbusTester.pdb
+C:\Users\Pedro\Google Drive\Pedro\Tess\Pedro\ModbusSampleCommon\obj\Debug\ModbusTester.exe
+C:\Users\Pedro\Google Drive\Pedro\Tess\Pedro\ModbusSampleCommon\obj\Debug\ModbusTester.pdb
+C:\Users\OPERACAO\Google Drive\Tess\Pedro\soft\ModbusSampleCommon\bin\Debug\ModbusTester.exe.config
+C:\Users\OPERACAO\Google Drive\Tess\Pedro\soft\ModbusSampleCommon\obj\Debug\ModbusTester.exe
+C:\Users\OPERACAO\Google Drive\Tess\Pedro\soft\ModbusSampleCommon\obj\Debug\ModbusTester.pdb

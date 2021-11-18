@@ -1,0 +1,6 @@
+c:\users\prefi\documents\visual studio 2015\Projects\testetcp\testetcp\bin\Debug\testetcp.exe.config
+c:\users\prefi\documents\visual studio 2015\Projects\testetcp\testetcp\obj\Debug\testetcp.csprojResolveAssemblyReference.cache
+c:\users\prefi\documents\visual studio 2015\Projects\testetcp\testetcp\bin\Debug\testetcp.exe
+c:\users\prefi\documents\visual studio 2015\Projects\testetcp\testetcp\bin\Debug\testetcp.pdb
+c:\users\prefi\documents\visual studio 2015\Projects\testetcp\testetcp\obj\Debug\testetcp.exe
+c:\users\prefi\documents\visual studio 2015\Projects\testetcp\testetcp\obj\Debug\testetcp.pdb
